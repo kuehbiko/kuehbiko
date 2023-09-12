@@ -19,7 +19,7 @@ Welcome to my GitHub! I am a physicist starting a journey in the field of data s
 
 ### 📚 My Projects
 View a specially curated set of [portfolio projects](https://github.com/kuehbiko/01-Portfolio-Projects) that showcases the very best of my data analyst skills.  \
-Want to know even more about what I do? Check out what I'm [currently working on](https://github.com/kuehbiko/02-Personal-Projects/tree/main).
+Want to know even more about what I do? Check out my [most recent project](https://github.com/kuehbiko/02-Personal-Projects/tree/main).
 
 ### 🛠️ My Tools
 Languages: *SQL, Python* \
