@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I'm Elizabeth, a data analyst with a background in physics and an expertise in data analysis and data storytelling. Welcome to my GitHub!
+Hello, I'm Elizabeth, a data analyst with a background in physics and an expertise in data analysis and data storytelling. \
+Welcome to my GitHub!
 
 ### My Projects
 View a specially curated set of [portfolio projects](https://github.com/kuehbiko/01-Portfolio-Projects) that showcases the best of my data analyst skills.  \
