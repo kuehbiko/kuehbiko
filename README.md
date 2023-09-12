@@ -14,12 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-x
+Hello, I'm Elizabeth. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
+
+Querying data using SQL.
+Generate reports and perform ad-hoc data analysis in Jupyter Notebook.
+Developing dashboards on Tableau.
+Data analysis and reporting using Google Sheets and Excel.
+
+📚 Projects
+Welcome to my portfolio, where I showcase my [projects](https://github.com/kuehbiko/01-Portfolio-Projects).
+
+🛠️ Tools
+Language: SQL, Python
+Database: Google BigQuery, PostgreSQL, MySQL
+Visualization: Tableau, Power BI
 
 ----
 
-#### 📬 Find me at
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phonethiriyadana)](https://www.linkedin.com/in/phonethiriyadana)
-[![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/phonethiriyadana#!/)](https://public.tableau.com/profile/phonethiriyadana#!/)
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ptyadana/)](https://github.com/ptyadana) 
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/phonethiriyadana)](https://www.kaggle.com/phonethiriyadana) 
+#### 👋🏻 Connect with Me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethlimse)](https://www.linkedin.com/in/elizabethlimse)
+[![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/kuebiko/)](https://public.tableau.com/profile/kuebiko/)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/kuehbiko/)](https://github.com/kuehbiko) 
+<!-- [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/phonethiriyadana)](https://www.kaggle.com/phonethiriyadana) 
