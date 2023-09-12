@@ -34,4 +34,6 @@ Visualization: *Tableau, Power BI*
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethlimse)](https://www.linkedin.com/in/elizabethlimse)
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/kuebiko/)](https://public.tableau.com/profile/kuebiko/)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/kuehbiko/)](https://github.com/kuehbiko) 
-<!-- [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/phonethiriyadana)](https://www.kaggle.com/phonethiriyadana) 
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/kuebiko)](https://www.kaggle.com/kuebiko) 
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=elsf1998@gmail.com)]()
