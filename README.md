@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 -->
 I'm Elizabeth, a data analyst with expertise in data analysis and reporting.
 
-## :heart: What I Love To Do
+#### :heart: What I Love To Do
 Query data using SQL. \
 Generate reports and perform ad-hoc data analysis in Jupyter Notebook. \
 Develop dashboards on Tableau. \
 Data analysis and reporting with Google Sheets and Excel.
 
-## 📚 Projects
+#### 📚 Projects
 Welcome to my GitHub! \
 View a specially curated set of [portfolio projects](https://github.com/kuehbiko/01-Portfolio-Projects) that showcases the best of my data analyst skills, or see what I'm [currently working on](https://github.com/kuehbiko/02-Personal-Projects/tree/main).
 
-## 🛠️ Tools
+#### 🛠️ Tools
 Language: SQL, Python \
 Database: Google BigQuery, PostgreSQL, MySQL \
 Visualization: Tableau, Power BI
