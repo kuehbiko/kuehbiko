@@ -26,8 +26,7 @@ Databases: *MySQL, PostgreSQL, Google BigQuery* \
 Visualization: *Tableau, Power BI*
 
 ### My Passions
-Data analytics of World of Warcraft and other video game statistics \
-Machine learning applications in particle physics
+When I am not working on projects or juggling bootcamp courses, you can find me exploring machine learning applications in particle physics or wading through World of Warcraft game data.
 
 ### Connect with Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=elsf1998@gmail.com)](elsf1998@gmail.com) 
