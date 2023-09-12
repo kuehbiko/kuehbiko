@@ -30,8 +30,6 @@ Languages: *SQL, Python* \
 Databases: *MySQL, PostgreSQL, Google BigQuery* \
 Visualization: *Tableau, Power BI*
 
-----
-
 #### 👋🏻 Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethlimse)](https://www.linkedin.com/in/elizabethlimse)
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/kuebiko/)](https://public.tableau.com/profile/kuebiko/)
