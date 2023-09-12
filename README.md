@@ -26,7 +26,7 @@ Languages: *SQL, Python* \
 Databases: *MySQL, PostgreSQL, Google BigQuery* \
 Visualization: *Tableau, Power BI*
 
-### ❤️ My Passions
+### ❤️ My Interests
 When I'm not working on projects or juggling bootcamp courses, you can find me reading about machine learning applications in particle physics or wading through World of Warcraft game data.
 
 ### 👋 Connect with Me
