@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I'm Elizabeth, a physicist starting a journey in the field of data science and analytics. My expertise lies in data analysis and data storytelling. My current goal is to break into the tech industry and land a full-time data analyst role by 2024. Welcome to my GitHub!
+Hello and welcome to my GitHub! I am a physicist starting a journey in the field of data science and analytics. My expertise lies in data analysis and data storytelling. My current goal is to break into the tech industry and land a full-time data analyst role by 2024. 
 
 ### My Projects
 View a specially curated set of [portfolio projects](https://github.com/kuehbiko/01-Portfolio-Projects) that showcases the best of my data analyst skills.  \
