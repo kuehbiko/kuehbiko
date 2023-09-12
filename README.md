@@ -35,5 +35,5 @@ Visualization: *Tableau, Power BI*
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethlimse)](https://www.linkedin.com/in/elizabethlimse)
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=for-the-badge&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/kuebiko/)](https://public.tableau.com/profile/kuebiko/)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/kuehbiko/)](https://github.com/kuehbiko) 
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=plastic&logo=kaggle&logoColor=white&link=https://www.kaggle.com/kuebiko)](https://www.kaggle.com/kuebiko) 
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=social&logo=kaggle&logoColor=white&link=https://www.kaggle.com/kuebiko)](https://www.kaggle.com/kuebiko) 
 
