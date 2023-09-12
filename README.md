@@ -24,7 +24,7 @@ Data analysis and reporting with Excel and Google Sheets
 
 ### My Projects
 View a specially curated set of [portfolio projects](https://github.com/kuehbiko/01-Portfolio-Projects) that showcases the best of my data analyst skills.  \
-Want to know more about what I do? See what I'm [currently working on](https://github.com/kuehbiko/02-Personal-Projects/tree/main).
+Want to know more about what I do? Check out what I'm [currently working on](https://github.com/kuehbiko/02-Personal-Projects/tree/main).
 
 ### My Tools
 Languages: *SQL, Python* \
