@@ -27,7 +27,7 @@ View a specially curated set of [portfolio projects](https://github.com/kuehbiko
 
 #### 🛠️ My Tools
 Language: *SQL, Python* \
-Database: *Google BigQuery, PostgreSQL, MySQL* \
+Database: *MySQL, PostgreSQL, Google BigQuery* \
 Visualization: *Tableau, Power BI*
 
 ----
