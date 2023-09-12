@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🙋 About Me
+## 🙋 About Me
 Welcome to my GitHub! I am a physicist starting a journey in the field of data science and analytics. My expertise lies in data analysis and data storytelling. My current goal is to break into the tech industry and land a full-time data analyst role by 2024. 
 
 ### 📚 My Projects
