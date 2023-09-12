@@ -14,19 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I'm Elizabeth. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
+Hello, I'm Elizabeth, a data analyst with expertise in data analysis and reporting.
 
-Querying data using SQL.
-Generate reports and perform ad-hoc data analysis in Jupyter Notebook.
-Developing dashboards on Tableau.
-Data analysis and reporting using Google Sheets and Excel.
+🌱 Querying data using SQL. \
+🌱 Generate reports and perform ad-hoc data analysis in Jupyter Notebook. \
+🌱 Developing dashboards on Tableau. \
+🌱 Data analysis and reporting using Google Sheets and Excel.
 
-📚 Projects
-Welcome to my portfolio, where I showcase my [projects](https://github.com/kuehbiko/01-Portfolio-Projects).
+**📚 Projects**
+Welcome to my GitHub! \
+View a specially curated set of [portfolio projects](https://github.com/kuehbiko/01-Portfolio-Projects) that showcases the best of my data analyst skills. \
+Or see what I'm [currently working on](https://github.com/kuehbiko/02-Personal-Projects/tree/main).
 
-🛠️ Tools
-Language: SQL, Python
-Database: Google BigQuery, PostgreSQL, MySQL
+**🛠️ Tools** \
+Language: SQL, Python \
+Database: Google BigQuery, PostgreSQL, MySQL \
 Visualization: Tableau, Power BI
 
 ----
