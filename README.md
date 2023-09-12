@@ -32,6 +32,7 @@ Databases: *MySQL, PostgreSQL, Google BigQuery* \
 Visualization: *Tableau, Power BI*
 
 ### My Passions
+Making beautiful and thoughtful data visualizations with plotly
 Data analysis of World of Warcraft and video game statistics \
 Machine learning applications in particle physics
 
