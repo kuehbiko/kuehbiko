@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Elizabeth, a data analyst with expertise in data analysis and data storytelling. Welcome to my GitHub!
 
-### My Passions
+### My Process
 Query data using SQL \
 Generate reports and perform ad-hoc data analysis in Jupyter Notebook \
 Develop dashboards on Tableau and Power BI \
@@ -29,6 +29,8 @@ View a specially curated set of [portfolio projects](https://github.com/kuehbiko
 Languages: *SQL, Python* \
 Databases: *MySQL, PostgreSQL, Google BigQuery* \
 Visualization: *Tableau, Power BI*
+
+### My Passions
 
 ### Connect with Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=elsf1998@gmail.com)](elsf1998@gmail.com) 
