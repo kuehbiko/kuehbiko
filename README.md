@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Elizabeth, a data analyst with expertise in data analysis and reporting. Welcome to my GitHub!
+I'm Elizabeth, a data analyst with expertise in data analysis and data storytelling. Welcome to my GitHub!
 
 ### My Passions
 Query data using SQL \
