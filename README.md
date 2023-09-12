@@ -31,9 +31,9 @@ Databases: *MySQL, PostgreSQL, Google BigQuery* \
 Visualization: *Tableau, Power BI*
 
 #### 👋🏻 Connect with Me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethlimse)](https://www.linkedin.com/in/elizabethlimse)
-[![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/kuebiko/)](https://public.tableau.com/profile/kuebiko/)
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/kuehbiko/)](https://github.com/kuehbiko) 
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/kuebiko)](https://www.kaggle.com/kuebiko) 
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=elsf1998@gmail.com)]()
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethlimse)](https://www.linkedin.com/in/elizabethlimse)
+[![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=for-the-badge&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/kuebiko/)](https://public.tableau.com/profile/kuebiko/)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/kuehbiko/)](https://github.com/kuehbiko) 
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/kuebiko)](https://www.kaggle.com/kuebiko) 
+
