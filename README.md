@@ -1,4 +1,4 @@
-## About Me
+## Hello There!
 
 <!--
 **kuehbiko/kuehbiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,21 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello and welcome to my GitHub! I am a physicist starting a journey in the field of data science and analytics. My expertise lies in data analysis and data storytelling. My current goal is to break into the tech industry and land a full-time data analyst role by 2024. 
+### 🙋 About Me
+Welcome to my GitHub! I am a physicist starting a journey in the field of data science and analytics. My expertise lies in data analysis and data storytelling. My current goal is to break into the tech industry and land a full-time data analyst role by 2024. 
 
-### My Projects
+### 📚 My Projects
 View a specially curated set of [portfolio projects](https://github.com/kuehbiko/01-Portfolio-Projects) that showcases the very best of my data analyst skills.  \
 Want to know even more about what I do? Check out what I'm [currently working on](https://github.com/kuehbiko/02-Personal-Projects/tree/main).
 
-### My Tools
+### 🛠️ My Tools
 Languages: *SQL, Python* \
 Databases: *MySQL, PostgreSQL, Google BigQuery* \
 Visualization: *Tableau, Power BI*
 
-### My Passions
+### ❤️ My Passions
 When I'm not working on projects or juggling bootcamp courses, you can find me reading about machine learning applications in particle physics or wading through World of Warcraft game data.
 
-### Connect with Me
+### 👋 Connect with Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=elsf1998@gmail.com)](elsf1998@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethlimse)](https://www.linkedin.com/in/elizabethlimse) 
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=for-the-badge&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/kuebiko/)](https://public.tableau.com/profile/kuebiko/) 
