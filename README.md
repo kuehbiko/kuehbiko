@@ -36,6 +36,7 @@ When I'm not working on projects or juggling bootcamp courses, you can find me r
 <!--[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/kuebiko)](https://www.kaggle.com/kuebiko) -->
 <!-- maybe can put stackoverflow or blog badges next time. discord? -->
 
+***
 #### Current Courses:
 - `[ ]` 03-Coursework: AI200 Applied Machine Learning
 - `[ ]` 04-Technicals: Python - 100 Days of Code
