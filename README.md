@@ -37,5 +37,5 @@ When I'm not working on projects or juggling bootcamp courses, you can find me r
 <!-- maybe can put stackoverflow or blog badges next time. discord? -->
 
 #### Current Courses:
-`[ ]` 03-Coursework: AI200 Applied Machine Learning \ 
-`[ ]` 04-Technicals: Python - 100 Days of Code
+- `[ ]` 03-Coursework: AI200 Applied Machine Learning
+- `[ ]` 04-Technicals: Python - 100 Days of Code
