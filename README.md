@@ -23,7 +23,7 @@ Feeling lucky? Check out [my most recent project](https://github.com/kuehbiko/02
 ### 🛠️ My Tools
 Languages: *SQL, Python* \
 Databases: *MySQL, PostgreSQL, Google BigQuery* \
-Visualization: *Tableau, Power BI*
+Visualization: *Tableau*
 
 ### ❤️ My Interests
 When I'm not working on projects or juggling bootcamp courses, you can find me filling my wip projects folder or wading through World of Warcraft game data.
