@@ -26,7 +26,7 @@ Databases: *MySQL, PostgreSQL, Google BigQuery* \
 Visualization: *Tableau, Power BI*
 
 ### ❤️ My Interests
-When I'm not working on projects or juggling bootcamp courses, you can find me reading about machine learning applications in physics or wading through World of Warcraft game data.
+When I'm not working on projects or juggling bootcamp courses, you can find me filling my wip projects folder or wading through World of Warcraft game data.
 
 ### 👋 Connect with Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=elsf1998@gmail.com)](elsf1998@gmail.com) 
@@ -37,6 +37,7 @@ When I'm not working on projects or juggling bootcamp courses, you can find me r
 <!-- maybe can put stackoverflow or blog badges next time. discord? -->
 
 ***
-#### Current Courses:
+#### To Do List:
 - `[ ]` 03-Coursework: AI200 Applied Machine Learning
 - `[ ]` 04-Technicals: Python - 100 Days of Code
+- `[ ]` 02-Personal-Projects: Energy Savings Singapore
