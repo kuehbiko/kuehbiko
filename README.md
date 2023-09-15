@@ -27,7 +27,7 @@ Databases: *MySQL, PostgreSQL, Google BigQuery* \
 Visualization: *Tableau*
 
 ### ❤️ My Interests
-When I'm not working on projects or juggling bootcamp courses, you can find me looking for more projects, wading through World of Warcraft game data or applying for entry-level data analyst jobs (please hire me).
+When I'm not working on projects or juggling bootcamp courses, you can find me looking for more projects, wading through World of Warcraft game data or applying for entry-level data analyst jobs (please hire me 🙏).
 
 ### 👋 Connect with Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=elsf1998@gmail.com)](elsf1998@gmail.com) 
