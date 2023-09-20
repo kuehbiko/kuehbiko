@@ -39,5 +39,5 @@ When I'm not working on projects or juggling bootcamp courses, you can find me l
 
 ***
 #### To Do List:
-- `[ ]` 04-Technicals: Python - 100 Days of Code - day 8
+- `[ ]` 04-Technicals: Python - 100 Days of Code - day 9
 - `[ ]` 04-Technicals: CS50P - week 3
