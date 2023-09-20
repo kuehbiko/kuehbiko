@@ -39,6 +39,5 @@ When I'm not working on projects or juggling bootcamp courses, you can find me l
 
 ***
 #### To Do List:
-- `[ ]` 03-Coursework: AI200 Applied Machine Learning - ~~homework due 22 Sep~~
-- `[ ]` 04-Technicals: Python - 100 Days of Code - EVERYDAY
-- `[ ]` 04-Technicals: CS50P
+- `[ ]` 04-Technicals: Python - 100 Days of Code - day 8
+- `[ ]` 04-Technicals: CS50P - week 3
