@@ -39,8 +39,3 @@ When I'm not working on projects or juggling bootcamp courses, you can find me l
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/kuehbiko/)](https://github.com/kuehbiko) 
 <!--[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/kuebiko)](https://www.kaggle.com/kuebiko) -->
 <!-- maybe can put stackoverflow or blog badges next time. discord? -->
-
-***
-#### To Do List:
-- `[ ]` 04-Technicals: Python - 100 Days of Code - day 9
-- `[ ]` 04-Technicals: CS50P - week 3
