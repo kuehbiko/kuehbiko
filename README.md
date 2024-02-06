@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🙋 About Me
-Welcome to my GitHub! I am a physicist/MIS reporting analyst starting a journey in the field of data science and analytics. My expertise lies in ETL, data analysis and data storytelling. My current goal is to land a full-time data analyst role by 2024. 
+Welcome to my GitHub! I am currently in an Data Analytics Traineeship! I am a Data Analytics trainee under IBF's TFIP Program.
+My background lies in physic/MIS reporting analytics and I'm starting a journey in the field of data science and analytics. My expertise lies in ETL, data analysis and data storytelling. \
+✅ I have achieved my goal to land a full-time data analyst role by 2024! \
+⬜ My next goal is to begin the OMSCS in 2025.
 
 ### 📚 My Projects
 View a specially curated set of [portfolio projects](https://github.com/kuehbiko/01-Portfolio-Projects) that showcases the very best of my data analyst skills. If you want to see even more, check out [my most recent project](https://github.com/kuehbiko/02-Personal-Projects/tree/main/Completed). 
