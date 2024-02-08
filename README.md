@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🙋 About Me
-Welcome to my GitHub! I am currently in an Data Analytics Traineeship! I am a Data Analytics trainee under IBF's TFIP Program.
-My background lies in physic/MIS reporting analytics and I'm starting a journey in the field of data science and analytics. My expertise lies in ETL, data analysis and data storytelling. \
+Hello, I'm E.Lim! I am currently in an Data Analytics Traineeship under IBF's TFIP Program!
+My background lies in physic/MIS reporting analytics and I'm starting a journey in the field of data science and analytics. My expertise lies in ETL, data analysis and data storytelling. 
+
 ✅ I have achieved my goal to land a full-time data analyst role by 2024! \
 ⬜ My next goal is to begin the OMSCS in 2025.
 
