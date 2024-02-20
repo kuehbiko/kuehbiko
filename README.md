@@ -28,7 +28,7 @@ View a specially curated set of [portfolio projects](https://github.com/kuehbiko
 ### 🛠️ My Tools
 Languages: *SQL, Python* \
 Databases: *MySQL, PostgreSQL, Google BigQuery* \
-Visualization: *Tableau*
+Visualization: *Tableau*, *Power BI*
 
 ### ❤️ My Interests
 When I'm not working on projects or juggling bootcamp courses, you can find me looking for more projects or wading through World of Warcraft game data.
