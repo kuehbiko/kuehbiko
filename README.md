@@ -39,5 +39,5 @@ When I'm not working on projects or juggling bootcamp courses, you can find me l
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=for-the-badge&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/kuebiko/)](https://public.tableau.com/profile/kuebiko/) 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/kuehbiko/)](https://github.com/kuehbiko) 
 [![Github Badge](http://img.shields.io/badge/-Dagshub-brown?style=for-the-badge&logo=github&link=https://dagshub.com/kuehbiko/)](https://dagshub.com/kuehbiko)
-<!--[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/kuebiko)](https://www.kaggle.com/kuebiko) -->
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/kuebiko)](https://www.kaggle.com/kuebiko)
 <!-- maybe can put stackoverflow or blog badges next time. discord? -->
