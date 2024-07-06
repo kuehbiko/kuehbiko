@@ -24,8 +24,6 @@ My background is in physics and MIS analytics and I'm starting a journey in the 
 ### 📚 My Projects
 View a specially curated set of [portfolio projects](https://github.com/kuehbiko/01-Portfolio-Projects) that showcases the very best of my data analyst skills. If you want to see even more, check out [my most recent project](https://github.com/kuehbiko/02-Personal-Projects/tree/main/Completed). 
 
-[Feeling lucky? Click here instead!](https://github.com/kuehbiko/02-Personal-Projects/tree/main/WIP)
-
 ### 🛠️ My Tools
 Languages: *SQL, Python* \
 Databases: *MySQL, PostgreSQL, Google BigQuery* \
