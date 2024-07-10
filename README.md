@@ -21,7 +21,7 @@ My background is in physics and MIS analytics and I'm starting a journey in the 
 ⬜ My next goal is to begin the OMSA in 2025.
 
 ### 📚 My Projects
-View a specially curated set of [portfolio projects](https://github.com/kuehbiko/01-Portfolio-Projects) that showcases the very best of my data analyst skills. If you want to see even more, check out [my most recent project](https://github.com/kuehbiko/02-Personal-Projects/tree/main/Completed). 
+View a specially curated set of portfolio projects that showcases the very best of my data analyst skills. If you want to see even more, check out [my most recent project](https://github.com/kuehbiko/02-Personal-Projects/tree/main/Completed). 
 
 ### 🛠️ My Tools
 Languages: *SQL, Python* \
