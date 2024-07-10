@@ -18,7 +18,7 @@ My background is in physics and MIS analytics and I'm starting a journey in the 
 
 ✅ I have achieved my goal to land a full-time data analyst role by 2024! \
 ⬜ I am currently working on the Analytics MicroMasters by Georgia Tech. \
-⬜ My next goal is to begin the OMSCS in 2025.
+⬜ My next goal is to begin the OMSA in 2025.
 
 ### 📚 My Projects
 View a specially curated set of [portfolio projects](https://github.com/kuehbiko/01-Portfolio-Projects) that showcases the very best of my data analyst skills. If you want to see even more, check out [my most recent project](https://github.com/kuehbiko/02-Personal-Projects/tree/main/Completed). 
