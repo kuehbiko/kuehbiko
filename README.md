@@ -20,8 +20,6 @@ My background is in physics and MIS analytics and I'm starting a journey in the 
 ⬜ I am currently working on the Analytics MicroMasters by Georgia Tech. \
 ⬜ My next goal is to begin the OMSA in 2025.
 
-### 📚 My Projects
-View a [specially curated set of portfolio projects](https://github.com/kuehbiko/01-Portfolio-Projects) that showcases the very best of my data analyst skills. For even more, check out [my most recent projects](https://github.com/kuehbiko/02-Personal-Projects/tree/main/Completed). 
 
 ### 🛠️ My Tools
 Languages: *SQL, Python, R* \
