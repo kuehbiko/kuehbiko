@@ -16,18 +16,12 @@ Here are some ideas to get you started:
 ## 🙋 About Me
 My background is in physics and MIS analytics and I'm starting a journey in the field of data science and analytics. My expertise is in ETL, data analysis and data storytelling. 
 
-✅ I have achieved my goal to land a full-time data analyst role by 2024! \
-⬜ I am currently working on the Analytics MicroMasters by Georgia Tech. \
-⬜ My next goal is to begin the OMSA in 2025.
-
 
 ### 🛠️ My Tools
 Languages: *SQL, Python, R* \
-Databases: *MySQL, PostgreSQL, Google BigQuery* \
-Visualization: *Tableau, Power BI*
+Databases: *MySQL, PostgreSQL* \
+Visualization: *Power BI*
 
-### ❤️ My Interests
-When I'm not working on projects or juggling bootcamp courses, you can find me looking for more projects or wading through World of Warcraft game data.
 
 ### 👋 Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethlimse)](https://www.linkedin.com/in/elizabethlimse) 
