@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 Data professional with 3 years of experience in data analytics and data science.
 
 
-Languages: *SQL, Python, R* \
-Databases: *MySQL, PostgreSQL* \
-Visualization: *Power BI*
+Languages: *Python (numpy, pandas, pyspark, sci-kit learn), R* \
+Databases: *Snowflake, Postgres* \
+Visualization: *Power BI* \
+OS: *Windows, Linux Ubuntu*
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethlimse)](https://www.linkedin.com/in/elizabethlimse) 
