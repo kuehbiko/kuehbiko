@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Data professional with 3 years of experience in data analytics and data science.
+Hi! I'm a data professional with 3 years of experience in data analytics and data science. 
 
 
-Languages: *Python (numpy, pandas, pyspark, sci-kit learn), R* \
+Languages: *Python (numpy, pandas, pyspark, sci-kit learn), SQL, R* \
 Databases: *Snowflake, Postgres* \
-Visualization: *Power BI* \
-OS: *Windows, Linux Ubuntu*
+Visualization: *Microsoft Power BI* \
+OS: *Windows, Linux Ubuntu* \
+Others: *Microsoft Excel (powerquery, powerpivot, oracle smartview)*
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethlimse)](https://www.linkedin.com/in/elizabethlimse) 
