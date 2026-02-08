@@ -13,17 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🙋 About Me
-My background is in physics and MIS analytics and I'm starting a journey in the field of data science and analytics. My expertise is in ETL, data analysis and data storytelling. 
+Data professional with 3 years of experience in data analytics and data science.
 
 
-### 🛠️ My Tools
+### What I work with:
 Languages: *SQL, Python, R* \
 Databases: *MySQL, PostgreSQL* \
 Visualization: *Power BI*
 
 
-### 👋 Connect with Me
+### Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethlimse)](https://www.linkedin.com/in/elizabethlimse) 
 <!--
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=for-the-badge&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/kuebiko/)](https://public.tableau.com/profile/kuebiko/) 
