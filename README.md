@@ -17,7 +17,7 @@ Hi! I'm a data professional with 3 years of experience in data analytics and dat
 
 
 Languages: *Python (numpy, pandas, pyspark, sci-kit learn), SQL, R* \
-Databases: *Snowflake, Postgres* \
+Databases: *SnowflakeSQL, PostgreSQL, MYSQL* \
 Visualization: *Microsoft Power BI* \
 OS: *Windows, Linux Ubuntu* \
 Others: *Microsoft Excel (powerquery, powerpivot, oracle smartview)*
